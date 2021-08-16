@@ -1,6 +1,6 @@
 # 3dScanner
 
-
+Windows 10 x64
 
 
 wip
